@@ -1,0 +1,14 @@
+# Binarios compilados
+punto1/pi_s
+punto1/pi_p
+punto2/fibonacci
+punto2/fibonacci_s
+
+# Archivos objeto
+*.o
+
+# Otros
+*.out
+
+# Herramientas de desarrollo
+.claude/
