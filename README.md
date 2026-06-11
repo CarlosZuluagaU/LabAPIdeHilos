@@ -257,8 +257,6 @@ Para la parte de Fibonacci, se mostró la salida del programa con 15 elementos y
 
 ## Conclusiones
 
-## Conclusiones
-
 - Este laboratorio permitió comprender la importancia de los hilos en la programación concurrente y paralela. Se aprendió que una tarea grande puede dividirse en partes más pequeñas para ser ejecutada por varios hilos. Ya que esto ayudaria a mejorar el rendimiento cuando el problema se puede paralelizar correctamente.
 - Se evidenció que el uso de varios hilos puede reducir el tiempo de ejecución en tareas computacionalmente pesadas; y que el paralelismo tiene costos asociados, como la creación y sincronización de hilos.
 - Se implemento Fibonacci que permitió entender cómo compartir información entre hilos. Se utilizo la memoria dinámica para almacenar resultados y pasar datos mediante estructuras.
