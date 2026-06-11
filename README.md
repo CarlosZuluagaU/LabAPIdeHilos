@@ -5,8 +5,6 @@ Elaborado por:
 - Duván Antonio Arboleda Botero
   duvan.arboleda1@udea.edu.co
 
-Link de video:
-
 ## Introducción
 El propósito de este laboratorio es aplicar los conceptos de creación, ejecución y sincronización de hilos para resolver problemas computacionales 
 usando programación multihilo. Se desarrollo dos ejercicios principales: la paralelización del cálculo de π mediante integración numérica y la 
